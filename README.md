@@ -1,8 +1,6 @@
 
 # LifePilot Frontend (MVP)
 
-Рабочий, лаконичный фронт для LifePilot (FastAPI). Функционал важнее дизайна.
-
 ## Стек
 - React + Vite + TypeScript
 - React Router
